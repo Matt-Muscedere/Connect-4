@@ -1,6 +1,6 @@
 <h1>Connect 4 </h1>
 
-Project consists of developing Connect 4 using the command line. The game works by using nested iteration on multidimensional arrays. The game checks for a win after each player makes a move. Player 1 is represented by X and player 2 is represnted by O.
+Project consists of developing Connect 4 using the command line. The game works by using nested iteration on multidimensional arrays. The game checks for a win after each player makes a move. Player 1 is represented by X and player 2 is represented by O.
 <br />
 
 
